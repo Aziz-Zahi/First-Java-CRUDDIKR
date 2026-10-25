@@ -1,4 +1,4 @@
-package com.example.crudwithvaadin;
+ package com.example.crudwithvaadin;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
